@@ -1,6 +1,7 @@
 body {
   background: url("../images/fond.jpg") no-repeat fixed;
   font-size: 18px;
+  text-align: justify;
 }
 
 nav{
@@ -75,6 +76,7 @@ th {
 }
 table td:first-child {
   border-left: none;
+  padding-right: 10px;
 }
 table td:last-child {
   border-right: none;
