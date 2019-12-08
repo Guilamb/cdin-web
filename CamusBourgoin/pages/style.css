@@ -1,6 +1,6 @@
 body {
   background: url("../images/fond.jpg") no-repeat fixed;
-  background-size: 100%;
+  background-size:cover;
   font-size: 18px;
   text-align: justify;
 }
